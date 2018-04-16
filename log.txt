@@ -1,0 +1,37 @@
+commit 63f717bfc156c3fb717bb1bf0e27ebf5502a8455
+Author: bgtierney99 <38439592+bgtierney99@users.noreply.github.com>
+Date:   Mon Apr 16 15:33:26 2018 -0400
+
+    Added name
+
+commit 8406c694f88c198295c7a0ba5cba696cae2de28b
+Author: Greatgamer7 <anthony.neves77@gmail.com>
+Date:   Mon Apr 16 10:07:46 2018 -0400
+
+    Set theme jekyll-theme-modernist
+
+commit 45e1b6659ca838efdd1ac91bcae13ff46ff1e879
+Author: Greatgamer7 <anthony.neves77@gmail.com>
+Date:   Mon Apr 16 10:00:09 2018 -0400
+
+    Main Added
+    
+    Added a main.cc file that will print "Hello World" when run.
+
+commit 3cc9fdcc8b3f1e457e47b9b2496cd72e143d3a32
+Author: Greatgamer7 <anthony.neves77@gmail.com>
+Date:   Mon Apr 16 09:56:02 2018 -0400
+
+    Minor README Change
+
+commit ff5b19167d1fe54d3d4a6c2efc37467949750878
+Author: Greatgamer7 <anthony.neves77@gmail.com>
+Date:   Mon Apr 16 09:47:21 2018 -0400
+
+    Completing README
+
+commit 7a96b3312f959786eccca19da51bfe053b8ad478
+Author: Greatgamer7 <anthony.neves77@gmail.com>
+Date:   Mon Apr 16 09:18:14 2018 -0400
+
+    Initial commit

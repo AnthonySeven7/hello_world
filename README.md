@@ -2,7 +2,7 @@
 
 ## Author
 
-Anthony Neves
+Anthony Neves and Brendan Tierney
 4/16/2018
 Lab Section: 2
 
